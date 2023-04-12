@@ -1,12 +1,12 @@
 # **Learning outcomes BA**
 
 ## 1\. You design and build **user-friendly**, **full-stack** web applications.
-2. 
-###_User friendly_:
+
+_User friendly_:
 
 You apply basic User experience testing and development techniques.
 
-###_Full-stack_:
+_Full-stack_:
 
 You design and build a full stack application using commonly accepted front-end (Javascript-based framework) and back-end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
