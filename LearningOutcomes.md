@@ -46,7 +46,7 @@ Recognition is based on theoretically substantiated awareness of cultural differ
 
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
-## 6\. You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using** multiple types of test techniques**.
+## 6\. You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
 
 
