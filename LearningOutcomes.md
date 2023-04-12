@@ -2,11 +2,11 @@
 
 ## 1\. You design and build **user-friendly**, **full-stack** web applications.
 
-_User friendly_:
+### _User friendly_:
 
 You apply basic User experience testing and development techniques.
 
-_Full-stack_:
+### _Full-stack_:
 
 You design and build a full stack application using commonly accepted front-end (Javascript-based framework) and back-end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
@@ -14,7 +14,7 @@ You design and build a full stack application using commonly accepted front-end 
 
 
 
-###_Tooling and methodology_:
+### _Tooling and methodology_:
 
 Carry out, monitor, and report on unit integration, regression, and system tests, with attention to security and performance aspects, as well as applying static code analysis and code reviews.
 
@@ -22,7 +22,7 @@ Carry out, monitor, and report on unit integration, regression, and system tests
 
 
 
-###_Choose_:
+### _Choose_:
 
 
 You are aware of the most popular agile methods and their underlying agile principles.
@@ -30,7 +30,7 @@ Your choice of a method is motivated and based on well-defined selection criteri
 
 ## 4\. You **design and implement** a (semi)automated software release process that matches the needs of the project context.
 
-###_Design and implement_:
+### _Design and implement_:
 
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
