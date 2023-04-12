@@ -18,9 +18,9 @@
 
 
 
-## _What is the Agile methodology_?	
-## _Scrum master_	
-## _Scrum event_	
+## _What is the Agile methodology?	
+## _Scrum master
+## _Scrum event
 
 
 
