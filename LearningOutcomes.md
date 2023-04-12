@@ -68,7 +68,7 @@ Business processes during which the software that you are developing will be use
 
 or
 
-Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+Business processes needed for the success of your software development project (e.g. product release, market release, financial assurance).
 
 ## 8\. You act in a **professional manner** during software development and learning.
 
