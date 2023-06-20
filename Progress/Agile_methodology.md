@@ -50,9 +50,15 @@
 
 The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
 
+![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/1c99461d-a6ad-45aa-ada7-f5ee6a82b9d6)
+
+
+
+
+
 **Scrum master**
 
-In our group project we work in an agile way where we use the scrum framework to deliver our work. To succeed as a team, one person is our scrum master. However, that person can be replaced by each sprint if necessary.
+In our group project, we work in an agile way where we use the scrum framework to deliver our work. To succeed as a team, one person is our scrum master. However, that person can be replaced by each sprint if necessary.
 
 **Scrum event**
 
