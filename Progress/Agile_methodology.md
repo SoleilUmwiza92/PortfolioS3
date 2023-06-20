@@ -64,6 +64,11 @@ In our group project, we work in an agile way where we use the scrum framework t
 
 As a team we work in sprints, each sprint last three weeks. Before the start of the sprint, we do sprint planning to achieve our goals. We create a list of backlogs and then write user stories and after that, we do product backlog refinement with our product owner. Every Monday we have our stand-up to see our progress toward our goals. After those three weeks, we have a sprint review, where we present our accomplishments to the product owner.
 
+One of the tools we used in our group project was Jira
+
+![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/ae6f255d-c865-456c-bb7c-8b77b287e2ae)
+
+
 
  "What Is Agile Methodology in Project Management? - Wrike." https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/. Accessed 22 Mar. 2023.
 
