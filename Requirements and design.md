@@ -29,25 +29,25 @@ To give an idea of what the user interface would look like, designs were made.
 The first decision that had to be made were the colours. We requested IO to send us their colour schemes and they did. Based on this we started creating designs. 
 
 ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/165dde6e-50f6-4ccb-8c19-db5bb1476d19)
-
-
-
 Figure 1. IO colour scheme 
+
+
+
 
 The second step was making the actual designs. We started with a dashboard with log in screen.  
 
 ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/a88d2221-48c4-4a1d-bdf5-b9a62007e262)
-
-
-
 Figure 2. Log in screen, dashboard and menu 
 
+
+
+
 ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/32f01984-ac6f-4ec0-923b-c86888147ad1)
-
-
-
-
 Figure 3. Search page, search bar filled in and individual information 
+
+
+
+
 
 ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/768891c4-a395-42c8-8ec0-7c83d559400b)
 
