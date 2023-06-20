@@ -11,7 +11,6 @@ It consists of looking up a colleague on teams and sending them a message, witho
 
      
 
-Before implementation
 ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/cdfa0c0a-421b-4c29-9dc0-9361a5c5773b)
 
 
