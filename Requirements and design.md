@@ -61,10 +61,12 @@ Figure 3. Search page, search bar filled in and individual information
 
 As there are also notifications to respond to, an interface had to be made for this. This can be seen below. 
 
-Figure 4. Individual information and a ping notification 
+
 
 
  ![image](https://github.com/SoleilUmwiza92/PortfolioS3/assets/124836754/b397306b-387e-4ed2-a7c5-497ab0b439d7)
+ 
+ Figure 4. Individual information and a ping notification 
 
  
 
