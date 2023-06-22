@@ -37,7 +37,7 @@ The Agile methodology is a way to manage a project by breaking it up into severa
 
 # Scrum master
 
-In our group project, we work in an agile way where we use the scrum framework to deliver our work. To succeed as a team, one person is our scrum master. However, that person can be replaced by each sprint if necessary.
+In our group project, we worked in an agile way where we use the scrum framework to deliver our work. To succeed as a team, one person is our scrum master. However, that person can be replaced by each sprint if necessary.
 
 # Scrum event 
 
