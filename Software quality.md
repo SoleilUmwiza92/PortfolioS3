@@ -20,7 +20,7 @@ Integration Testing is a practice of testing if different layers of the applicat
 The layers used in the Individual project are Frontend, REST API Service and MongoDB database as a backend system.
 
 In my Individual project, integration testing is implemented using **SpringBootTest**, **DataMongoTest** together with **Flapdoodle Embedded MongoDB** where data is not persistent in the real database. 
-The implemented Integration testing can be found.[here].(https://github.com/SoleilUmwiza92/MyMunicipalityRestService/blob/master/src/test/java/com/myMunicipality/documentApi/MyApplicationIntegrationTest.java).
+The implemented Integration testing can be found [here](https://github.com/SoleilUmwiza92/MyMunicipalityRestService/blob/master/src/test/java/com/myMunicipality/documentApi/MyApplicationIntegrationTest.java).
 
 # Quality Gate Checks
 
