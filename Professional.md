@@ -1,6 +1,6 @@
 # Professionalism
 
-You act in a professional manner during software development and learning.
+You act in a professionally during software development and learning.
 
 
 # Stakeholder communication
@@ -12,7 +12,7 @@ You act in a professional manner during software development and learning.
  # Group agreements
   In order to work professionally within our group, we have a contract, definition of ready and also a definitonal of done. 
   The group contract is a series of rules, in which we have described our roles within the team, and also some rules about working together. 
-  In definition of done we have setup some rules such as reviewing each other’s code and much more. In definition of ready we have set some rules for example, a user story has to be well refined and needs to have a clear acceptance    criteria.
+  In definition of done we have setup some rules such as reviewing each other’s code and much more. In definition of ready we have set some rules for example, a user story has to be well defined and needs to have a clear acceptance    criteria.
 
 
 
