@@ -12,14 +12,15 @@ You act in a professional manner during software development and learning.
  # Group agreements
   In order to work professionally within our group, we have a contract, definition of ready and also a definitonal of done. 
   The group contract is a series of rules, in which we have described our roles within the team, and also some rules about working together. 
-  In definition of done we have setup some rules such as reviewing each other’s code and much more. In definition of ready we have set some rules for example, a user story has to be well refined and needs to have a clear acceptance criteria.
-  The reason we've set up these contracts is so we can work together better, and make everyone know what to expect from others..
+  In definition of done we have setup some rules such as reviewing each other’s code and much more. In definition of ready we have set some rules for example, a user story has to be well refined and needs to have a clear acceptance    criteria.
+
 
 
    # Feedback Collection
-    In both in individual and group project, we used to get feedback from each other and from teachers. 
-    For group project we took a notes to keep track on what product owner wants in our each coming sprint review or what we should be priotorize.
-    In individual I kept the feedback from teachers in Feedpulse(in canavs).
+   
+   In both in individual and group project, we used to get feedback from each other and from teachers.
+   For group project we took a notes to keep track on what product owner wants in our each coming sprint review or what we should be priotorize. I
+   n individual I kept the feedback from teachers in Feedpulse(in canavs).
 
 
 
