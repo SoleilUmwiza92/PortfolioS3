@@ -14,9 +14,9 @@ The main goal is to catch integration issues and conflicts early by automaticall
 This ensures that the software remains in a functional and stable state throughout the development process.
 
 In my Individual project, I am using Github Action workflow to run a build whenever new code is pushed to master branch. 
-The steps of the workflow are difined in a YAML file which contains maven build, ["Sonar quality gate"]and unit Testing and pushing the jar package to the ["Docker image"].
+The steps of the workflow are difined in a YAML file which contains maven build, [Sonar quality gate]and unit Testing and pushing the jar package to the [Docker image].
 
 Continuous Deployment (CD) focuses on automating the release and deployment of software to production environments.
-With CD, in the individual project any successfully built and tested changes are automatically published to the ["Docker image"] for further deployment to a target environment without manual intervention. 
+With CD, in the individual project any successfully built and tested changes are automatically published to the [Docker image] for further deployment to a target environment without manual intervention. 
    
 
