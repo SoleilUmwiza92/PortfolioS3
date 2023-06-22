@@ -1,12 +1,12 @@
-##### Table of content
+##### ** Table of content **
 
 
 
-[Introduction](#introduction)
-[API’s](#api's)
-[Front-end development](#front-end-development)
-[Back-end development](#back-end-development)
-[Database](#database)
+- [Introduction](#introduction)
+- [API’s](#api's)
+- [Front-end development](#front-end-development)
+- [Back-end development](#back-end-development)
+- [Database](#database)
 
 
 
