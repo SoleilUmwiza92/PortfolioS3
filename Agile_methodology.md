@@ -14,9 +14,9 @@
 # Table of content
 
 
--[What is the Agile methodology?](#What-is-the-Agile-methodology-?)
--[Scrum master](#scrum-master)
--[Scrum event](scrum-event)
+- [What is the Agile methodology?](#What-is-the-Agile-methodology-?)
+- [Scrum master](#scrum-master)
+- [Scrum event](scrum-event)
 
 
 
