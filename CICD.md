@@ -13,11 +13,10 @@ Continuous Integration (CI) involves merging code changes from multiple develope
 The main goal is to catch integration issues and conflicts early by automatically building and testing the codebase. 
 This ensures that the software remains in a functional and stable state throughout the development process.
 
-In my Individual project, I am using Github Action workflow to run a build whenever new code is pushed to master branch. 
-The steps of the workflow are difined in a YAML file which contains maven build, [Sonar quality gate](https://sonarcloud.io/organizations/soleilumwiza92/projects).and unit Testing and pushing the jar package to the [Docker image]
-(https://hub.docker.com/repository/docker/soleilu/my_municipality/general).
+In my project, I am using the GitHub Action workflow to run a build whenever new code is pushed to the master branch. 
+The steps of the workflow are defined in a YAML file which contains maven build, [Sonar quality gate](https://sonarcloud.io/organizations/soleilumwiza92/projects).and unit Testing and pushing the jar package to the [Docker image](https://hub.docker.com/repository/docker/soleilu/my_municipality/general).
 
 Continuous Deployment (CD) focuses on automating the release and deployment of software to production environments.
-With CD, in the individual project any successfully built and tested changes are automatically published to the [Docker image](https://hub.docker.com/repository/docker/soleilu/my_municipality/general). for further deployment to a target environment without manual intervention. 
+With CD, in the individual project, and successfully built and tested changes are automatically published to the [Docker image](https://hub.docker.com/repository/docker/soleilu/my_municipality/general). for further deployment to a target environment without manual intervention. 
    
 
