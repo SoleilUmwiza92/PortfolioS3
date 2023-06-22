@@ -1,7 +1,7 @@
 # Web application
 You design and build user-friendly, full-stack web applications.
 
-#User-friendly
+# User-friendly
 
 "User-friendly" is a term used to describe products, systems, or interfaces that are designed to be easy and intuitive to a wide range of users. 
 A user-friendly design aims to minimise complexity, reduce the learning curve, and enhance the overall user experience.
@@ -13,7 +13,7 @@ In the individual project, the user can login using Open Authorization(OAuth2) w
 Other features such as Get documents and user profile can be accessed by one click on the navigation bar. More information about the research we did for 
 [OAuth2](https://docs.google.com/document/d/1FcSPYfOpofL5F_100IwEOF1PCGIBsGaKJo6o_Hl-EMo/edit0).
 
-#Full-stack
+# Full-stack
 
 "Full stack" refers to the combination of the 3 layers front-end (client-side), back-end (server-side) components and the data layer of a web application.
 To develop a Full stack application, proficiency in multiple layers of software development, including the user interface, server-side logic, database management, and deployment.is required.
